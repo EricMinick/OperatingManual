@@ -9,6 +9,7 @@ It takes time for new colleagues to get used to each-other’s ways of working. 
 *	**I believe tech can improve the world:** I always look for how products can improve the lives of their users and better the world. That’s what gets me up in the morning to work.
 * **I believe in work-life balance:** Routinely working excessive hours will burn someone out. With that in mind, I try hard to respect others' work hours, encourage teammates to take vacations, etc. I expect the same courtesy in return. We need to break these guidelines occasionally, but those times should be few and consequential. 
 *	**I translate tech-speak to English:** I’m pretty good at translating highly technical concepts to normal English and back, which helps me move between more technical and less technical groups.
+*	 **I like data:** Clever ideas from smart people are still often wrong. We should use data to validate our ideas before and after we put them into action.
 
 ### Good work relationships:
 *	**Be respectful and decent**: I get frustrated by coworkers who treat others without respect. Please criticize privately, respect time boundaries, and assign work to people in ways appropriate to the organization.
