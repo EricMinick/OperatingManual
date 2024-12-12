@@ -7,7 +7,7 @@ It takes time for new colleagues to get used to each-other’s ways of working. 
 ### Essential things about me
 *	**I’m an introvert who likes people:** I enjoy collaborative work and public speaking, but spending time with people drains my energy. I love a good conference but will always skip the concert.
 *	**I believe tech can improve the world:** I always look for how products can improve the lives of their users and better the world. That’s what gets me up in the morning to work.
-* **I believe in work-life balance:** Routinely working excessive hours will burn someone out. With that in mind, I try to respect others' work hours, encourage teammates to take vacations, etc. I expect the same courtesy in return. We need to break these guidelines occasionally to get ship done, but those times should be few and consequential. 
+* **I believe in work-life balance:** Routinely working excessive hours will burn someone out. With that in mind, I try to respect others' work hours, encourage teammates to take vacations, etc. I expect the same courtesy in return. We need to break these guidelines occasionally to get ship done, but those times should be few and consequential. Not being burned out provides the capacity to deliver the occasional 14-hour critical crunch day. 
 *	**I translate tech-speak to English:** I’m pretty good at translating highly technical concepts to normal English and back, which helps me move between more technical and less technical groups.
 *	 **I like data:** Smart people with clever ideas are still often wrong. We should use data to validate our ideas before and after we put them into action. Be risk-based when deciding when to check. My bias is to try things but validate if they help or hurt.
 
