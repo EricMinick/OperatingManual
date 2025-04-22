@@ -21,16 +21,16 @@ It takes time for new colleagues to get used to each-other’s ways of working. 
 *	**I like “back briefing”:** When given instruction or a new idea is shared, I endeavor to play that back in my own words to validate my understanding. Likewise, I appreciate it when teammates validate their understanding of what I said. I find this helps to avoid misunderstandings.
 *	**I prefer brainstorming in the morning and status reporting in the afternoon:** I’m more energetic in the morning. High energy, thoughtful work, including brainstorming is best for me then. I use the afternoons for status meetings, paperwork, and more social engagements. 
 *	**Dissapoint helpfully:** There are always situations where we can't do everything we're asked to do. I try to tell people whose demands I can't meet up front that I can't and why I'm prioritizing someone else. That gives them the opportunity to convince me that I have my priorities wrong and, at the very least, not be surprised. I appreciate the same courtesy.
-*	*	**On zoom:** I find being on camera draining (see introvert above). I am on camera for personal or hard conversations and keep my camera off for standard conversations or status meetings.
+*	**On zoom:** I find being on camera draining (see introvert above). I am on camera for personal or hard conversations and may keep my camera off for standard conversations or status meetings.
 
 ### My schedule:
-*	**Work hours:** My core hours are 8:30am-5:30pm MT, which will vary depending on meetings.
+*	**Work hours:** My core hours are 8:30am-5:30pm Denver time (US Mountain), which will vary depending on meetings.
 * **After hours:**  If you need me outside of those hours, text or call. If the conversation can wait until normal hours, please let it wait.  If I receive Slack messages after hours, I’ll typically read them and respond only if its urgent. Identifying whether you see it as urgent or not is appreciated!
 
 ### My favorite corporate values:
 * **Think. Prepare. Rehearse:** From IBM, this mantra of preparation for a meeting or presentation has served me well. This is the antithesis of "show up and throw up".
 * **Draw the Owl:** From Twilio (and internet memes) the idea the there isn't written script for how to do something. As a professional, you often need to blaze trails and just figure it out. Step 1: Draw two overlapping circles. Step 2: Draw the fucking owl.
-*  **Get Ship Done:** From Harness - this echoes Amazon's bias for action, but has a subtle emphasis on "done." Not just doing things but finishing things. The lean/kanban nerd in me appreciates the distinction. 
+* **Get Ship Done:** From Harness - Echoes Amazon's bias for action, but has a subtle emphasis on "done." Don't just "do" things. "Finish" things. The lean/kanban nerd in me appreciates the distinction. 
 
 ### Things I’m working on:
 *	**Remembering teammate's non-work situations:** I fall into the “work is for work things” trap and do a fairly poor job of remembering the shape of people’s families, including names and ages. I’m working to take better notes on family lives, hobbies, etc.
